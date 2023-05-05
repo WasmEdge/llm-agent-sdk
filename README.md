@@ -38,5 +38,3 @@ The student intern for this project will work with the WasmEdge team to build a 
 | Mentor | Michael Yuan (michael@secondstate.io) |
 
 
-**Note:** This section of OSPP would be deleted after the completion of program!
-
